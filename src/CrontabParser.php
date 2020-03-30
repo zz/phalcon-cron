@@ -1,8 +1,8 @@
 <?php
 
-namespace Sid\Phalcon\Cron;
+namespace Easyconn\Phalcon\Cron;
 
-use Sid\Phalcon\Cron\Job\System as SystemJob;
+use Easyconn\Phalcon\Cron\Job\System as SystemJob;
 
 class CrontabParser
 {

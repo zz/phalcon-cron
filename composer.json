@@ -1,5 +1,5 @@
 {
-    "name":        "sidroberts/phalcon-cron",
+    "name":        "easyconn/phalcon-cron",
     "description": "Cron component for Phalcon.",
     "type":        "library",
     "license":     "MIT",

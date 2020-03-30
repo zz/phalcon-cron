@@ -1,8 +1,8 @@
 <?php
 
-namespace Sid\Phalcon\Cron\Job;
+namespace Easyconn\Phalcon\Cron\Job;
 
-use Sid\Phalcon\Cron\Job;
+use Easyconn\Phalcon\Cron\Job;
 
 class Callback extends Job
 {
