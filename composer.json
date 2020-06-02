@@ -41,7 +41,7 @@
 
     "autoload": {
         "psr-4": {
-            "Sid\\Phalcon\\Cron\\": "src/"
+            "Easyconn\\Phalcon\\Cron\\": "src/"
         }
     }
 }
