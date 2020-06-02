@@ -2,7 +2,7 @@
 
 namespace Easyconn\Phalcon\Cron\Job;
 
-use Phalcon\DiInterface;
+use Phalcon\Di\DiInterface;
 use Easyconn\Phalcon\Cron\Exception;
 use Easyconn\Phalcon\Cron\Job;
 
